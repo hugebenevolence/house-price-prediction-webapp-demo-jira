@@ -2,6 +2,8 @@
 
 Minimal demo project for testing Jira and GitHub development activity links.
 
+Baseline training script added for Jira integration demo.
+
 ## Project Structure
 
 ```text
