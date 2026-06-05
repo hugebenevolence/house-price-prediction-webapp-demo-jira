@@ -27,3 +27,11 @@ house-price-prediction-webapp-demo-jira/
 pip install -r requirements.txt
 python src/train_baseline.py
 ```
+
+## Baseline Results
+
+```text
+R^2: 0.5758
+MAE: 0.5332
+RMSE: 0.7456
+```
